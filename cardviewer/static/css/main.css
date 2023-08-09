@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/yugioh-bg.jpg");
+}
+
+.card-zoom {
+    transition: 1s;
+    transform: scale(1);
+}
+
+.card-zoom:hover {
+    transition: 1s;
+    transform: scale(1.5);
+}
