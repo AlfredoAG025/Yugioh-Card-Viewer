@@ -10,3 +10,4 @@ typing_extensions==4.7.1
 tzdata==2023.3
 whitenoise==6.5.0
 fontawesomefree==6.4.2
+requests==2.31.0
